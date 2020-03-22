@@ -25,5 +25,6 @@ public class SimpleServlet extends HttpServlet {
 	public void destroy() {
 		System.out.println("Servlet " + this.getServletName() + " has stopped");
 	}
+        // test
 	
 }
