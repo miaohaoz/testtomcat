@@ -20,6 +20,7 @@ public class SimpleServlet extends HttpServlet {
 	public void init() throws ServletException {
 		System.out.println("Servlet " + this.getServletName() + " has started");
 	}
+	// test2
 
 	@Override
 	public void destroy() {
