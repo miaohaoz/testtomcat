@@ -21,6 +21,7 @@ public class SimpleServlet extends HttpServlet {
 		System.out.println("Servlet " + this.getServletName() + " has started");
 	}
 	// test2
+	// test3
 
 	@Override
 	public void destroy() {
